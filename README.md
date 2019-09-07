@@ -7,16 +7,16 @@ You will need to create your own 'request' flows and load them into the script.
 
 Update RequestFlow="" and Downloadbypass=""
 
-I will need to upload those flows into your Microsoft Tenent.
+I will need to upload those flows into your Microsoft Tenant.
 I might just release a document to walk you through making your own flow.
 Follow @surbo for updates.
 
 
+Q: Is it overflow or ovRflow?
+A: It's OvRflow!
 
-Requirements:
-jq
+Q: Why did you make the repo overflow then?
+A: Because people would spell it correctly
 
-
-
-
-
+Q: Then why not spell it correctly then?
+A: It would be hard to find because of Buffer Overflow. Also @archwisp said not to name it overflow =)
