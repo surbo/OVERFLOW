@@ -41,17 +41,19 @@
 
 * Step 10) **Update [Overflow.sh](/Overflow.sh) by pasting the HTTP POST URL between the two sets of quotes for the RequestFlow= variable.**
 
+* Derbycon Slides
+[Download](https://drive.google.com/file/d/1yk6VQ_0Yhe3jI3yyQJp_VB54qWoT5VXu/view?usp=sharing)
 
+* Derbycon Video
+[![Watch the video](/DATA/youtube.PNG)](https://youtu.be/80xUTJPlhZc)
 
 **OVERVIEW**
 
 Derbycon Drop of My Flow Talk 'Attacking with Automation'
 
-You will need to create your own 'request' flows and load them into the script.
-
 Update RequestFlow="" and Downloadbypass=""
 
-I will need to upload those flows into your Microsoft Tenant.
+
 
 **Q&A**
 
@@ -63,7 +65,7 @@ A: Because people would spell it correctly
 
 Q: Then why not spell it correctly then?
 A: It would be hard to find because of Buffer Overflow. Also @archwisp said not to name it overflow =)
-https://drive.google.com/file/d/1yk6VQ_0Yhe3jI3yyQJp_VB54qWoT5VXu/view?usp=sharing .  <-slides
+ .  <-slides
 
 
 
